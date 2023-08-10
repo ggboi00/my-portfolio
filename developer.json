@@ -1,0 +1,130 @@
+{
+    "name": "Vanshith Reddy",
+    "logo_name": "vanshith-reddy",
+    "role": "Unity Game developer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                        "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "Unity 2D and 3D <br> Photoshop <br> Programming Language : c#,c++"
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "Teamwork <br> Creativity <br> Organization <br> Willingness to learn"
+                    }
+                    
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br> About me <br>Iam an unity developer currently pursuing my bachelor degree in Backstage Pass Institute of Gaming and Technology. <br><br>Iam a Passionate Unity developer skilled in creating immersive games and experiences. Proficient in programming, game design, and optimizing performance. Collaborative team player with an eye for detail. Constantly learning and eager to craft extraordinary gaming experiences."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br>Learning new mechanics. <br> Trying new video games looking into it how they got build. <br> Community Engagement. <br> Technology and Innovation"
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br> 2020-2024 <br> Backstage Pass Institute of Gaming and Technology. <br><br> 2018-2020 <br> Fiit Jee. <br><br>2018 10th pass <br> Dr.KKR's Gowtham."
+                       
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>Badminton. <br> Tennis. <br> ko-ko."
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>CS:GO. <br> Apex Lengends. <br> PUBG Pc. <br> GTA5. <br> The forest 1 & 2. <br> Green Hell."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "mandadivanshith",
+                "phone": "+91 6302618065"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/ggboi00",
+                "user": "ggboi00"
+            },
+            
+            "instagram": {
+                "title": "Instagram account",
+                "url": "https://instagram.com/vanshith_reddy",
+                "user": "Vanshith"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/",
+                    "user": "username"
+                },
+                "instagram": {
+                    "title": "Instagram account",
+                    "url": "https://instagram.com/vanshith_reddy",
+                    "user": "Vanshith"
+                }
+                
+            }
+        }
+    },
+    "gists": {
+        "1": "47dda28f3008c74cfeb193381b2e3ba5"
+        
+    },
+    "projects": {
+        "1": {
+            "title": "Colorize",
+            "description": "Description",
+            "img": "/images/projects/ui-animations2.png",
+            "tech": ["PC"],
+            "url": "https://www.csscodelab.com/vue-animate-css-ball-bouncing-example/"
+        },
+        "2": {
+            "title": "Creepers",
+            "description": "Description",
+            "img": "/images/projects/ai-resources.png",
+            "tech": ["Mobile"],
+            "url": "https://github.com/"
+        },
+        "3": {
+            "title": "Deliver it!",
+            "description": "Description",
+            "img": "/images/projects/worldmap.png",
+            "tech": ["Mobile"],
+            "url": "https://github.com/"
+        },
+        "4": {
+            "title": "Core-infinity",
+            "description": "Description",
+            "img": "/images/projects/ui-animations.png",
+            "tech": ["PC"],
+            "url": "https://github.com/"
+        }
+        
+    }
+}
