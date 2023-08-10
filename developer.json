@@ -65,14 +65,26 @@
         "social": {
             "github": {
                 "title": "Github profile",
-                "url": "https://github.com/ggboi00",
+                "url": "https://github.com/",
                 "user": "ggboi00"
             },
             
             "instagram": {
                 "title": "Instagram account",
-                "url": "https://instagram.com/vanshith_reddy",
-                "user": "Vanshith"
+                "url": "https://instagram.com/",
+                "user": "vanshith_reddy"
+            },
+            "resume": {
+                "title": "Resume",
+                "url": "http://surl.li/",
+                "user": "jktjc"
+                
+            },
+            "linkedin": {
+                "title": "Linkedin",
+                "url": "https://www.linkedin.com/",
+                "user": "in/vanshith-reddy-237708b5"
+                
             }
         },
         "find_me_also_in": {
@@ -93,7 +105,8 @@
         }
     },
     "gists": {
-        "1": "47dda28f3008c74cfeb193381b2e3ba5"
+        "1": "47dda28f3008c74cfeb193381b2e3ba5",
+        "2": "73f80ecd4d272c2e9173d90a270ea653"
         
     },
     "projects": {

@@ -160,7 +160,7 @@
           <div id="gists" class="flex flex-col lg:px-6 lg:py-4 w-full overflow-hidden">
             <!-- title -->
             <h3 class="text-white lg:text-menu-text mb-4 text-sm"></h3>
-
+            // code snippet showcase:
             <div class="flex flex-col overflow-scroll">
               <!-- snippets -->
               <GistSnippet data-aos="fade-down" v-for="(gist, key) in config.public.dev.gists" :key="key" :id="gist" />
