@@ -93,7 +93,7 @@
                 "youtube": {
                     "title": "YouTube channel",
                     "url": "https://www.youtube.com/",
-                    "user": "username"
+                    "user": "@MVRGaming"
                 },
                 "instagram": {
                     "title": "Instagram account",
@@ -136,7 +136,7 @@
             "description": "Description",
             "img": "/images/projects/ui-animations.png",
             "tech": ["PC"],
-            "url": "https://github.com/"
+            "url": "https://vanshith.itch.io/core-infiniti"
         }
         
     }
