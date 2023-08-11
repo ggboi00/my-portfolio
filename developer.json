@@ -119,7 +119,7 @@
         },
         "2": {
             "title": "Creepers",
-            "description": "Description",
+            "description": "Casusal Time-based game where you need to delivery items to the respective stations",
             "img": "/images/projects/ai-resources.png",
             "tech": ["Mobile"],
             "url": "https://github.com/"
@@ -133,7 +133,7 @@
         },
         "4": {
             "title": "Core-infinity",
-            "description": "Description",
+            "description": "Open-World RPG Game <Under Development>",
             "img": "/images/projects/ui-animations.png",
             "tech": ["PC"],
             "url": "https://vanshith.itch.io/core-infiniti"
