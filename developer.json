@@ -76,8 +76,8 @@
             },
             "resume": {
                 "title": "Resume",
-                "url": "http://surl.li/",
-                "user": "jktjc"
+                "url": "https://rb.gy/",
+                "user": "dov8e"
                 
             },
             "linkedin": {
@@ -112,21 +112,21 @@
     "projects": {
         "1": {
             "title": "Colorize",
-            "description": "Description",
+            "description": "Colorize is a platformer, puzzler where you can change the color of your cube to solve puzzles. The main mechanic is that you can Rewind through all of the colors you switched to in the current puzzle.",
             "img": "/images/projects/ui-animations2.png",
             "tech": ["PC"],
             "url": "https://www.csscodelab.com/vue-animate-css-ball-bouncing-example/"
         },
         "2": {
             "title": "Creepers",
-            "description": "Casusal Time-based game where you need to delivery items to the respective stations",
+            "description": "Creepers was made for BSPIGT Game Jam 2023. Casual Time-based game where you need to delivery items to the respective stations.",
             "img": "/images/projects/ai-resources.png",
             "tech": ["Mobile"],
             "url": "https://github.com/"
         },
         "3": {
             "title": "Deliver it!",
-            "description": "Description",
+            "description": "The player(Truck) will be spawned at the market place where the player needs to sell the products displayed on the each customer and earn coins.",
             "img": "/images/projects/worldmap.png",
             "tech": ["Mobile"],
             "url": "https://github.com/"

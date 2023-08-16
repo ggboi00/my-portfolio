@@ -119,7 +119,7 @@
 }
 
 #projects-case {
-  /* padding: 100px; */
+  padding: 100px;
 }
 
 #project {
