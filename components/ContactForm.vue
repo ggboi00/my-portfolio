@@ -5,7 +5,7 @@
       <input
        type="text"
        id="from_name"
-       name="name"
+       name="from_name"
        :placeholder="name"
        class="p-2 mb-5 placeholder-slate-600"
        required
@@ -16,7 +16,7 @@
       <input
        type="email"
        id="email_id"
-       name="email"
+       name="email_id"
        :placeholder="email"
        class="p-2 mb-5 placeholder-slate-600"
        required
