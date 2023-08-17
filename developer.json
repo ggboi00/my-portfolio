@@ -97,8 +97,8 @@
                 },
                 "instagram": {
                     "title": "Instagram account",
-                    "url": "https://instagram.com/vanshith_reddy",
-                    "user": "Vanshith"
+                    "url": "https://instagram.com/",
+                    "user": "vanshith_reddy"
                 }
                 
             }
@@ -122,10 +122,10 @@
             "description": "Creepers was made for BSPIGT Game Jam 2023. Casual Time-based game where you need to delivery items to the respective stations.",
             "img": "/images/projects/ai-resources.png",
             "tech": ["Mobile"],
-            "url": "https://github.com/"
+            "url": "https://vanshith.itch.io/creepers"
         },
         "3": {
-            "title": "Deliver it!",
+            "title": "Dehliver it!",
             "description": "The Objective of the Player is to Deliver As many Packages as possible at the door steps of buildings while  escaping the obstacles on the course.",
             "img": "/images/projects/worldmap.png",
             "tech": ["Mobile"],
