@@ -126,10 +126,10 @@
         },
         "3": {
             "title": "Deliver it!",
-            "description": "The player(Truck) will be spawned at the market place where the player needs to sell the products displayed on the each customer and earn coins.",
+            "description": "The Objective of the Player is to Deliver As many Packages as possible at the door steps of buildings while  escaping the obstacles on the course.",
             "img": "/images/projects/worldmap.png",
             "tech": ["Mobile"],
-            "url": "https://github.com/"
+            "url": "https://vanshith.itch.io/dehliverit"
         },
         "4": {
             "title": "Core-infinity",
