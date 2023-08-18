@@ -85,6 +85,12 @@
                 "url": "https://www.linkedin.com/",
                 "user": "in/vanshith-reddy-237708b5"
                 
+            },
+            "itchio": {
+                "title": "Itch.io",
+                "url": "https://",
+                "user": "vanshith.itch.io"
+                
             }
         },
         "find_me_also_in": {
@@ -115,7 +121,7 @@
             "description": "Colorize is a platformer, puzzler where you can change the color of your cube to solve puzzles. The main mechanic is that you can Rewind through all of the colors you switched to in the current puzzle.",
             "img": "/images/projects/ui-animations2.png",
             "tech": ["PC"],
-            "url": "https://www.csscodelab.com/vue-animate-css-ball-bouncing-example/"
+            "url": "https://vanshith.itch.io/colorize"
         },
         "2": {
             "title": "Creepers",

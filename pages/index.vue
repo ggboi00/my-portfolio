@@ -30,7 +30,7 @@
 						const
 					</span>
 					<span class="variable-name">
-						githubLink
+						GithubLink
 					</span>
 					<span class="operator">
 						=
