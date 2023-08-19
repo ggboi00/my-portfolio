@@ -4,7 +4,7 @@
       <label for="name" class="mb-3">_name:</label>
       <input
        type="text"
-       id="from_name"
+       id="name-input"
        name="from_name"
        :placeholder="name"
        class="p-2 mb-5 placeholder-slate-600"
@@ -15,7 +15,7 @@
       <label for="email" class="mb-3">_email:</label>
       <input
        type="email"
-       id="email_id"
+       id="email-input"
        name="email_id"
        :placeholder="email"
        class="p-2 mb-5 placeholder-slate-600"
